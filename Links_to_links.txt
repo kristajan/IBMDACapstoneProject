@@ -1,0 +1,5 @@
+LINK to COGNOS
+<iframe src="https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FCurrent%2BTechnologies&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model000001932fc344c7_00000000" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+LINK to PDF
+https://github.com/kristajan/IBMDACapstoneProject/blob/6de2c9288c5c5aa8d583497b851fa18aeebde28b/_%20Current%20Technologies.pdf
