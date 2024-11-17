@@ -14,4 +14,5 @@ Other Github links
 https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/job-postings.xlsx
 https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/popular-languages.csv
 
-This file on Github, but previous version
+This file on Github, a version
+https://github.com/kristajan/IBMDACapstoneProject/blob/469e6c4a35a2268b0a2b37e0d740557dcc0e409b/links2links.txt
