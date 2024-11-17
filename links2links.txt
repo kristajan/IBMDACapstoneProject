@@ -1,9 +1,9 @@
 Power Point Online link
-https://1drv.ms/p/c/9258ad07f004259c/ERgoE5zSIUZGjp_EAUrALPkBLPB5t-VK5ucchC8i1w-g3w?e=pwI7Rr
+https://1drv.ms/p/c/9258ad07f004259c/ERgoE5zSIUZGjp_EAUrALPkB63UTp_H3Y8ta_HakHWbw1Q?e=U3eJS8
 
-https://github.com/kristajan/IBMDACapstoneProject/blob/47f433cdd00f9e095c1f5613424aecb4dc2939d0/Final-capstone-story.pptx
+https://github.com/kristajan/IBMDACapstoneProject/blob/ceac78b8810eb98bed934e3d5fe170fb8bd157ca/Final-capstone-story.pdf
 
-https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/Final-capstone-story.pdf
+https://github.com/kristajan/IBMDACapstoneProject/blob/ceac78b8810eb98bed934e3d5fe170fb8bd157ca/Final-capstone-story.pptx
 
 Cognos link
 https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnologies&action=view&mode=dashboard&subView=model000001932fc4a77e_00000000
@@ -15,4 +15,4 @@ https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748
 https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/popular-languages.csv
 
 This file on Github, a version
-https://github.com/kristajan/IBMDACapstoneProject/blob/6940fedefa5e3a9e167cbef032abf09a206dd4b9/links2links.txt
+
