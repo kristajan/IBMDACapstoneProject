@@ -1,10 +1,8 @@
-Power Point Online
+Power Point Online link
 https://1drv.ms/p/c/9258ad07f004259c/ERgoE5zSIUZGjp_EAUrALPkBLPB5t-VK5ucchC8i1w-g3w?e=pwI7Rr
 
 Cognos link
 https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FCurrent%2BTechnologies&action=view&mode=dashboard&subView=model000001932fc4a77e_00000000
-
-
 
 Github links
 https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/Current%20Technologies.pdf
@@ -15,5 +13,5 @@ https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748
 
 https://github.com/kristajan/IBMDACapstoneProject/blob/6a45edbc6a351a7b0f7585748be0a44fd02f1f8a/popular-languages.csv
 
-
 This file on Github
+https://github.com/kristajan/IBMDACapstoneProject/blob/091bcbe41be8fc199c7be67fa994b485c1ea6074/links2links.txt
